@@ -164,17 +164,17 @@ tail -5 ~/P1/friend_count_distribution_sorted.tsv
 
 **PowerShell:**
 ```powershell
-scp emdwmt@cs6304-emdwmt-01.mst.edu:~/P1/friend_count_distribution_sorted.tsv C:\Users\emdwmt\Downloads\
+scp emdwmt@cs6304-emdwmt-01.class.mst.edu:~/P1/friend_count_distribution_sorted.tsv C:\Users\emdwmt\Downloads\
 ```
 
 **Git Bash:**
 ```bash
-scp emdwmt@cs6304-emdwmt-01.mst.edu:~/P1/friend_count_distribution_sorted.tsv /c/Users/emdwmt/Downloads/
+scp emdwmt@cs6304-emdwmt-01.class.mst.edu:~/P1/friend_count_distribution_sorted.tsv /c/Users/emdwmt/Downloads/
 ```
 
 If a custom port is required (example 2222):
 ```powershell
-scp -P 2222 emdwmt@cs6304-emdwmt-01.mst.edu:~/P1/friend_count_distribution_sorted.tsv C:\Users\emdwmt\Downloads\
+scp -P 2222 emdwmt@cs6304-emdwmt-01.class.mst.edu:~/P1/friend_count_distribution_sorted.tsv C:\Users\emdwmt\Downloads\
 ```
 
 ---
