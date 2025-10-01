@@ -4,7 +4,7 @@
 
 From your local machine, verify you can SSH to the VM:
 ```bash
-ssh emdwmt@cs6304-emdwmt-01.mst.edu
+ssh emdwmt@cs6304-emdwmt-01.class.mst.edu
 ```
 
 Know the local path of the dataset on Windows  
