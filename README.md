@@ -1,6 +1,6 @@
 # P1 — Step-by-step procedure
 
-## 0) Pre-checks (before you start)
+## 0) Pre-checks
 
 From your local machine, verify you can SSH to the VM:
 ```bash
