@@ -1,4 +1,4 @@
-# P1 — Step-by-step procedure
+# Step-by-step procedure
 
 ## 0) Pre-checks
 
